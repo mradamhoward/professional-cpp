@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.5)
+
+add_subdirectory(c29_code/01_SingletonLogger)
+add_subdirectory(c29_code/02_CarFactory)
+add_subdirectory(c29_code/03_LoggerAdaptor)
+add_subdirectory(c29_code/04_Decorator)
+add_subdirectory(c29_code/05_ChainOfResponsibility)
+add_subdirectory(c29_code/06_Observer)
